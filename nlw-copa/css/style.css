@@ -24,6 +24,13 @@ body {
 
 header {
 	margin-bottom: 60px;
+	text-align: center;
+}
+
+#cards {
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
 }
 
 .card {
